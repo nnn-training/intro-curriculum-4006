@@ -6,4 +6,4 @@ services:
     ports:
       - 8000:8000
     volumes:
-      - .:/dom-manipulation-4007
+      - .:/practice-intro-4006
