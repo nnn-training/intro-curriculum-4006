@@ -24,6 +24,7 @@ app.get("/", (c) => {
               </p>
             `}
         <div id="root"></div>
+        <div id="ex"></div>
       `,
     ),
   );
